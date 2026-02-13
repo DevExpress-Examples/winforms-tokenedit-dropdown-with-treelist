@@ -18,7 +18,7 @@ This example creates a custom dropdown menu with integrated TreeList control:
 * [Data.cs](./CS/TokenEditTest/Data.cs) (VB: [Data.vb](./VB/TokenEditTest/Data.vb))
 * [Form1.cs](./CS/TokenEditTest/Form1.cs) (VB: [Form1.vb](./VB/TokenEditTest/Form1.vb))
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-tokenedit-dropdown-with-treelist&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-tokenedit-dropdown-with-treelist&~~~was_helpful=no)
 
